@@ -1,6 +1,6 @@
 {
   "name": "fabric",
-  "description": "Object model for HTML5 canvas, and SVG-to-canvas parser. Backed by jsdom and node-canvas.",
+  "description": " <FORK FORESTGUN> Object model for HTML5 canvas, and SVG-to-canvas parser. Backed by jsdom and node-canvas.",
   "homepage": "http://fabricjs.com/",
   "version": "3.6.1",
   "authors": "Juriy Zaytsev <kangax@gmail.com>",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabricjs/fabric.js"
+    "url": "https://github.com/forestgun/fabric.js"
   },
   "bugs": {
-    "url": "https://github.com/fabricjs/fabric.js/issues"
+    "url": "https://github.com/forestgun/fabric.js/issues"
   },
   "license": "MIT",
   "scripts": {
